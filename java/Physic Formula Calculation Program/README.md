@@ -1,3 +1,3 @@
 # How to run
 
-run file name CallPhysic.java
+run file CallPhysic.java to start program 
